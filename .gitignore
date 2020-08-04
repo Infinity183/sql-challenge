@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # Passwords
-pgAdmin_username
-pgAdmin_password
+username_password.py
